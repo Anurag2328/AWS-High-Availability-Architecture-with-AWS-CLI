@@ -16,4 +16,4 @@ Step 6: Finally put the **CloudFront URL** as the object address in the code for
 
 These 6 steps we are going to performed in order to create this High level Architecture.
 
-For Implementation part refer my [linkedin post](https://www.linkedin.com/posts/anurag-vashishth-7b7bb8156_aws-awscloud-awscsa-activity-6747947352641851393-zYb2)
+For Implementation part refer my [linkedin post](https://www.linkedin.com/posts/anurag-vashishth-7b7bb8156_aws-awscloud-awscsa-activity-6747947352641851393-zYb2).
